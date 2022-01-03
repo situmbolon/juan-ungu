@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'aa.php';//PHP/HTML file or URL used for bots
+$CLOAKING['WHITE_PAGE'] = 'a.php';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'b.php';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
